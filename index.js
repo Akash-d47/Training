@@ -70,7 +70,6 @@ function add(x, y) {
   };
 
 
-
 //   Default Parameters
 
 function greet(name = 'Guest') {
